@@ -12,6 +12,7 @@ These are my notes on important papers that have been published since my [2021 r
  * PTLD in ideally treated LD: https://pubmed.ncbi.nlm.nih.gov/35066160/
  * Galactofuranose NOT galactopyranose is a Bb immunogen: https://pubs.acs.org/doi/10.1021/jacs.1c12202
  * Antiphospholipid autoantibodies: https://pubmed.ncbi.nlm.nih.gov/35289310/
+ * 2 Lyme GWAS hits. Previously known hit HLA-DBQ1, and interesting new hit: secretoglobin SCGB1D2 https://www.biorxiv.org/content/10.1101/2022.05.27.493784v1
  
 
 																																															 
